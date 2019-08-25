@@ -18,6 +18,6 @@ def age_appropriate_birthday
   else 
     puts "You are too old for kids"
   end
-end
+  end
 end
 
